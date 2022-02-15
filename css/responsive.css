@@ -1,0 +1,99 @@
+@media (max-width: 1600px) {
+}
+
+/*------------------------------------------------------------------------------- 1199.98px*/
+@media (max-width: 1199.98px) {
+   .container {
+      max-width: 720px;
+   }
+   .header.header-fixed .container-fluid .brand {
+      overflow-x: hidden;
+      height: 75px;
+      margin: 0;
+      width: 50px;
+      position: relative;
+      top: -12px;
+      left: 40px;
+   }
+   .home-horizontal h1,
+   .home-horizontal .h1,
+   .home-horizontal .slide5 h1,
+   .home-horizontal .slide5 .h1 {
+      font-size: 9.037037vmin;
+   }
+   .slide-contact-mail,
+   .slide-contact-phone {
+      font-size: 2rem;
+   }
+   .home-horizontal h2,
+   .home-horizontal .h2 {
+      font-size: 4.666667vmin;
+   }
+   .num {
+      font-size: 3.555556vmin;
+   }
+   .horizontal-service-item {
+      padding: 2.888889vmin 2.125rem 3.092593vmin;
+      margin-top: 2.62963vmin;
+   }
+   .horizontal-service-item-title {
+      font-size: 1.5rem;
+   }
+   .horizontal-service-item .num,
+   .horizontal-service-item-photo {
+      margin-bottom: 1.518519vmin;
+   }
+   .horizontal-service-item-descr ul {
+      margin-bottom: 0;
+      padding-left: 0;
+      font-size: 14px;
+      list-style: none;
+   }
+   .horizontal-service-item-descr li {
+      list-style: none;
+   }
+}
+
+/*------------------------------------------------------------------------------- 991.98px*/
+@media only screen and (max-width: 991.98px) {
+   .container {
+      max-width: 650px;
+   }
+}
+
+/*------------------------------------------------------------------------------- 768px*/
+@media (max-width: 768px) {
+}
+
+/*------------------------------------------------------------------------------- 575.98px*/
+@media (max-width: 575.98px) {
+   .header.header-fixed .container-fluid .brand {
+      left: -15px;
+   }
+   .horizontal-service-item-title {
+      font-size: 1rem;
+   }
+   .horizontal-service-item-descr li {
+      font-size: 12px;
+   }
+   .horizontal-service-item {
+      width: 100%;
+   }
+   .horizontal-service-item-photo.photo3 img.photo-position {
+      top: 0.5rem;
+      max-width: 18.837838%;
+      left: 70.886486%;
+   }
+   .btn-sm {
+      padding: 0.875rem 1rem 0.8125rem;
+   }
+   .social.social-fixed li:last-child {
+      margin-bottom: 2.825rem;
+   }
+}
+
+@media (min-width: 1500px) {
+}
+
+@media (min-width: 1600px) {
+}
