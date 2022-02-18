@@ -7947,6 +7947,35 @@ a.phone-link {
    text-transform: uppercase;
 }
 
+.scoring-partners {
+   padding: 5% 0;
+}
+
+.scoring-partners .project-item .project-carousel-photo{
+   background-position: center center;
+   background-color: rgba(41,114,120, 0.2);
+   /* background-color: linear-gradient(50deg, rgba(255,255,255,1) 0%, rgba(41,114,120,1) 100%); */
+}
+
+.scoring-partners .grid-item:first-child .project-carousel-photo {
+   background-size: 80% 80%;
+}
+
+.scoring-partners .grid-item:last-child .project-carousel-photo {
+   background-size: 90% 75%;
+   background-position: center 15%;
+}
+
+.scoring-partners .project-list-flash .project-item:hover .project-carousel-detail {
+   background: #226DB9;
+}
+
+
+.scoring-partners .project-list-flash .grid-item:last-child .project-item:hover .project-carousel-detail {
+   background: #DBAA08;
+}
+
+
 @media (min-width: 768px) {
    .footer-content {
       padding-top: 11.25rem;
